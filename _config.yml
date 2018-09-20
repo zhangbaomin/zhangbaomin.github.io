@@ -7,7 +7,7 @@
 
 # Site settings
 title: 弓长Bao每攵的技术专栏
-brief-intro:JAVA Coder
+brief-intro: JAVA Coder
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://zhangbaomin.github.io" # the base hostname & protocol for your site
 
